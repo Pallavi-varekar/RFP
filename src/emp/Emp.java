@@ -7,3 +7,7 @@ public class Emp
         System.out.println("welcome");
     }
 }
+public class epj
+{
+    system.out.println("pallavi");
+}
